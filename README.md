@@ -64,6 +64,7 @@ If you prefer a local `package.json`, you can set it up like this:
 `npx cypress run`
 
 **Folder structure**
+```text
 aetherium/
   loginpage.cy.js
   registerpage.cy.js
@@ -73,6 +74,7 @@ aetherium/
   playnormalimagesrecognition.cy.js
   playhardimagesrecognition.cy.js
   playeasylearningm.cy.js
+```
 
 **Future improvements**
 
