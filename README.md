@@ -9,8 +9,6 @@ The tests cover common user flows such as:
 - Navigating difficulty levels (easy / normal / hard)
 - Image recognition game flows
 
-> 🧪 This repository is intended as a **demo of UI automation with Cypress** and a quick reference for client projects and interviews.
-
 ---
 
 ## Tech stack
